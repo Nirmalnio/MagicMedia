@@ -7,9 +7,9 @@ function Solution() {
         <div className="solution_inner">
           <div className="container">
             <div className="section_title" data-aos="fade-up" data-aos-duration="1500">
-              <h2>Solution made for</h2>
-              <p>Lorem Ipsum is simply dummy text of the printing and typese tting indus <br /> orem Ipsum has beenthe
-                standard dummy text ever since.</p>
+              <h2>Solution made for Your Growth</h2>
+              <p>Utilizing the most powerful media channels and technology available, we offer an expansive range of solutions & services to publishers and advertisers and help them reach their targeted online marketing objectives. Through our advanced team of experts and cutting-edge technology systems,
+                 we successfully drive top-quality results and increased ROI.</p>
             </div>
             <div className="row">
               <div className="col-md-4">

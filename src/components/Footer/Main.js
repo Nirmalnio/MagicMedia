@@ -21,8 +21,7 @@ function Main() {
                             <div className="col-lg-4 col-md-6 col-12">
                                 <div className="abt_side">
                                     <div className="logo"> <img src={One} alt="image" /></div>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and type setting industry ype setting industry lorem
-                                        Ipsum has been the industrys standard dummy. </p>
+                                    <p>Get your business ready to skyrocket </p>
                                     <div className="news_letter_block">
                                         <form action="submit">
                                             <div className="form-group">
@@ -40,10 +39,10 @@ function Main() {
                                     <h3>Useful Links</h3>
                                     <ul>
                                         <li><Link to="/">Home</Link></li>
-                                        <li><Link to="/about-us">About us</Link></li>
-                                        <li><Link to="/servicelist1">Services</Link></li>
-                                        <li><Link to="/serviceDetail">Service Detail</Link></li>
-                                        <li><Link to="/bloglist">Blog</Link></li>
+                                        <li><Link to="/about-us">Advertisers</Link></li>
+                                        <li><Link to="/servicelist1">Publishers</Link></li>
+                                        <li><Link to="/serviceDetail">AdFormats</Link></li>
+                                        <li><Link to="/bloglist">Brand Safety</Link></li>
                                     </ul>
                                 </div>
                             </div>
@@ -51,11 +50,10 @@ function Main() {
 
                             <div className="col-lg-3 col-md-6 col-12">
                                 <div className="links">
-                                    <h3>Help & Suport</h3>
+                                    <h3>Help & Support</h3>
                                     <ul>
                                         <li><Link to="/contactus">Contact us</Link></li>
-                                        <li><Link to="/faq">FAQs</Link></li>
-                                        <li><Link to="#">How it works</Link></li>
+                                        <li><Link to="#">About Us</Link></li>
                                         <li><Link to="#">Terms & conditions</Link></li>
                                         <li><Link to="#">Privacy policy</Link></li>
                                     </ul>
