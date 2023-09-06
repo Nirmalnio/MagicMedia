@@ -10,8 +10,8 @@ function Banner() {
           <div className="banner_text">
             <div className="ban_inner_text" data-aos="fade-up" data-aos-duration="1500">
               <span>Powerful, easier and faster</span>
-              <h1>Grow your software <br /> <span>faster & easier with Dashbord</span></h1>
-              <p>The World's simplest and fast platform that brings everything together</p>
+              <h1>Get your business <br /> <span>ready to skyrocket</span></h1>
+              <p>Powerful Data-driven Programmatic Advertising Hub</p>
             </div>
             <Link data-aos="fade-up" data-aos-duration="1500" className="popup-youtube play-button"
               data-url="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1" data-toggle="modal"
