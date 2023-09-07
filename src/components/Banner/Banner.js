@@ -9,7 +9,7 @@ function Banner() {
         <div className="container">
           <div className="banner_text">
             <div className="ban_inner_text" data-aos="fade-up" data-aos-duration="1500">
-              <span>Powerful, easier and faster</span>
+              {/* <span>Powerful, easier and faster</span> */}
               <h1>Get your business <br /> <span>ready to skyrocket</span></h1>
               <p>Powerful Data-driven Programmatic Advertising Hub</p>
             </div>
@@ -46,11 +46,11 @@ function Banner() {
               </div>
             </div>}
           <div className="banner_images" data-aos="fade-up" data-aos-duration="1500">
-            <img src="assets/images/new/banner_01.png" alt="image" />
+            <img src="https://mediacity.co.in/codely/4/assets/images/new/banner_01.png" alt="image" />
             <div className="sub_images">
-              <img className="moving_animation" src="assets/images/new/banner_02.png" alt="image" />
-              <img className="moving_animation" src="assets/images/new/banner_03.png" alt="image" />
-              <img className="moving_animation" src="assets/images/new/banner_04.png" alt="image" />
+              <img className="moving_animation" src="https://mediacity.co.in/codely/4/assets/images/new/banner_02.png" alt="image" />
+              <img className="moving_animation" src="https://mediacity.co.in/codely/4/assets/images/new/banner_03.png" alt="image" />
+              <img className="moving_animation" src="https://mediacity.co.in/codely/4/assets/images/new/banner_04.png" alt="image" />
             </div>
           </div>
         </div>

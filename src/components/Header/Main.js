@@ -65,6 +65,11 @@ function Main() {
               id="navbarSupportedContent"
             >
               <ul className="navbar-nav ml-auto">
+              <li className="nav-item">
+                  <Link className="nav-link" to="/home">
+                    Home
+                  </Link>
+                 </li>
                 <li className="nav-item">
                   <Link className="nav-link" to="/about-us">
                     About us
@@ -97,11 +102,7 @@ function Main() {
                     Contact Us
                   </Link>
                 </li>
-                <li className="nav-item">
-                  <Link className="nav-link dark_btn" to="/contactus">
-                    REQUEST DEMO <i className="icofont-arrow-right"></i>
-                  </Link>
-                </li>
+               
               </ul>
             </div>
           </nav>
