@@ -20,14 +20,14 @@ function Main() {
           <Animation />
         }
         <Header />
-        <Bredcom same={"About us"} title={"Home"} subtitle={"About us"} />
+        <Bredcom same={"About us"} title={"Home"} subtitle={""} />
       </div>
-      <Review />
+      {/* <Review /> */}
       <Aboutus />
       <Solution />
       <OurTeam />
-      <Customer />
-      <FreeTrial />
+      {/* <Customer /> */}
+      {/* <FreeTrial /> */}
       <Need />
     </>
   )

@@ -1280,7 +1280,7 @@ header.fix_style .navbar-expand-lg .navbar-nav .nav-link.dark_btn {
   position: relative;
   padding: 50px 0;
   margin:0 0 0 0;
-  background: url(../images/new/business_vectore.png) top center;
+  /* background: url(../images/new/business_vectore.png) top center; */
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;

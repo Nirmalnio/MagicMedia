@@ -13,20 +13,6 @@ function Banner() {
               <h1>Get your business <br /> <span>ready to skyrocket</span></h1>
               <p>Powerful Data-driven Programmatic Advertising Hub</p>
             </div>
-            <Link data-aos="fade-up" data-aos-duration="1500" className="popup-youtube play-button"
-              data-url="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1" data-toggle="modal"
-              data-target="#myModal" title="XJj2PbenIsU">
-              <div className="play_btn">
-                <img src="assets/images/play_icon.png" alt="image" onClick={() => setClick(true)} />
-                <div className="waves-block">
-                  <div className="waves wave-1"></div>
-                  <div className="waves wave-2"></div>
-                  <div className="waves wave-3"></div>
-                </div>
-              </div>
-              <span>WATCH PROMO</span>
-            </Link>
-
           </div>
           {click &&
             <div className="modal fade youtube-video show" id="myModal" tabindex="-1" aria-labelledby="myModalLabel" style={{ display: "block", paddingRight: "17px" }} aria-modal="true" role="dialog">

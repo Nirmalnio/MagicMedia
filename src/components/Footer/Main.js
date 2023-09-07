@@ -105,18 +105,18 @@ function Main() {
 
                         <div className="row">
                             <div className="col-md-4">
-                                <p>© Copyrights 2023. All rights reserved.</p>
+                                <p>© Copyrights 2022. All rights reserved.</p>
                             </div>
                             <div className="col-md-4">
                                 <ul className="social_media">
                                     <li><Link to="#"><i className="icofont-facebook"></i></Link></li>
                                     <li><Link to="#"><i className="icofont-twitter"></i></Link></li>
                                     <li><Link to="#"><i className="icofont-instagram"></i></Link></li>
-                                    <li><Link to="#"><i className="icofont-pinterest"></i></Link></li>
+                                    <li><Link to="#"><i className="icofont-linkedin"></i></Link></li>
                                 </ul>
                             </div>
                             <div className="col-md-4">
-                                <p className="developer_text">Design & developed by <Link to="https://themeforest.net/user/kalanidhithemes" target="blank">Kalanidhi Themes</Link></p>
+                                {/* <p className="developer_text">Design & developed by <Link to="https://themeforest.net/user/kalanidhithemes" target="blank">Kalanidhi Themes</Link></p> */}
                             </div>
                         </div>
 

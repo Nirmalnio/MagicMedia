@@ -66,7 +66,7 @@ function Main() {
             >
               <ul className="navbar-nav ml-auto">
               <li className="nav-item">
-                  <Link className="nav-link" to="/home">
+                  <Link className="nav-link" to="/">
                     Home
                   </Link>
                  </li>
@@ -76,23 +76,23 @@ function Main() {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/testimonial">
+                  <Link className="nav-link" to="/advertisement">
                     Advertisers
                   </Link>
                 </li>
 
                 <li className="nav-item">
-                  <Link className="nav-link" to="#">
+                  <Link className="nav-link" to="/publishers">
                     Publishers
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="#">
+                  <Link className="nav-link" to="/Ad-formats">
                     AdFormats{" "}
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="#">
+                  <Link className="nav-link" to="/brandsafety">
                     Brand Safety{" "}
                   </Link>
                 </li>

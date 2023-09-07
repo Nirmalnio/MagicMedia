@@ -39,26 +39,30 @@ function PowerfulSolution() {
                     </NumberCounter>
                     <span>+</span>
                   </p>
-                  <p>Million of client logins monthly</p>
+                  <p style={{textAlign:"center"}} >
+                       Publishers
+                    </p>
                 </div>
               </li>
               <li>
                 <div className="text">
                   <p className="d-flex justify-content-center">
-                    <NumberCounter className="counter-value" data-count={120} end={120} delay={2}>
-                      0{" "}
-                    </NumberCounter>
+                  <NumberCounter className="counter-value" data-count={120} end={100} delay={0.5}>
+                        0
+                      </NumberCounter>
                     <span>+</span>
                   </p>
-                  <p>Languages and countries</p>
+                  <p style={{textAlign:"center"}} >
+                       Publishers
+                    </p>
                 </div>
               </li>
               <li>
                 <div className="text">
                   <p className="d-flex justify-content-center">
-                    <NumberCounter className="counter-value" data-count={120} end={135} delay={2}>
-                      0{" "}
-                    </NumberCounter>
+                  <NumberCounter className="counter-value" data-count={120} end={150} delay={2}>
+                        0
+                      </NumberCounter>
                     <span>+</span>
                   </p>
                   <p>Percent yearly turnover increase</p>
@@ -73,7 +77,9 @@ function PowerfulSolution() {
 
                     <span>+</span>
                   </p>
-                  <p>Million active accounts</p>
+                  <p style={{textAlign:"center"}}>
+                      Advertisers
+                    </p>
                 </div>
               </li>
             </ul>

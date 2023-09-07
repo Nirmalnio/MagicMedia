@@ -20,18 +20,15 @@ function AboutUsPage() {
             <div className="row">
               <div className="col-md-6">
                 <div className="section_title" data-aos="fade-in" data-aos-duration="1500">
-                  <h2>Few words about us, what
-                    we provide for your growth</h2>
-                  <p>Lorem Ipsum is simply dummy text of the printing and typese tting indus orem Ipsum has beenthe
-                    standard dummybeenthe standard dummy text ever since when an own Ipsums.</p>
-                  <p>Simply dummy text of the printing and typese tting indus orem Ipsum has beenthe standard dummy text
-                    ever since when an own Lorem Ipsums dummy text of the printing and typesetting indus orem Ipsum
-                    simply.</p>
+                  <h2>Few words about us, what we provide for your growth</h2>
+                  <p>Magic Media belongs to those programmatic advertising companies, which through creativity, mind-blowing technologies, and commitment to results, solve all challenges of digital advertising. We aspire to be a leading global provider of innovative online performance marketing solutions to publishers and advertisers. While developing and utilizing the most advanced technology available, using the most powerful media channels,
+                     we wish to deliver top-quality results and performance optimization for our partners. Since 2022, MM has expanded its activities while becoming a pioneer 
+                    in various areas within the online marketing world. The online market has expanded widely over the years, and as a key player within the industry, we have constantly set measures to remain a step ahead by anticipating and taking action for prospective changes. Through innovation, technology, and know-how gathered from our executive team who hold 10+ years of experience, we develop and deliver effective online solutions.</p>
                 </div>
               </div>
               <div className="col-md-6">
                 <div className="abt_img_block" data-aos="fade-in" data-aos-duration="1500">
-                  <a data-aos="fade-up" data-aos-duration="1500" className="popup-youtube play-button"
+                  {/* <a data-aos="fade-up" data-aos-duration="1500" className="popup-youtube play-button"
                     data-url="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1" data-toggle="modal"
                     data-target="#myModal" title="XJj2PbenIsU">
                     <div className="play_btn">
@@ -42,13 +39,13 @@ function AboutUsPage() {
                         <div className="waves wave-3"></div>
                       </div>
                     </div>
-                  </a>
+                  </a> */}
                   <div className="top_img">
-                    <img src="assets/images/new/abt_01.png" alt="image" />
-                    <img src="assets/images/new/abt_02.png" alt="image" />
+                    <img src="https://mediacity.co.in/codely/4/assets/images/new/abt_01.png" alt="image" />
+                    <img src="https://mediacity.co.in/codely/4/assets/images/new/abt_02.png" alt="image" />
                   </div>
                   <div className="bottom_img">
-                    <img src="assets/images/new/abt_03.png" alt="image" />
+                    <img src="https://mediacity.co.in/codely/4/assets/images/new/abt_03.png" alt="image" />
                   </div>
                 </div>
               </div>
@@ -68,14 +65,14 @@ function AboutUsPage() {
 
 
                     <p className="d-flex justify-content-center"><span className="counter-value" data-count={120}>
-                      <NumberCounter className="counter-value" data-count={120} end={450} delay={0.5}>
+                      <NumberCounter className="counter-value" data-count={120} end={100} delay={0.5}>
                         0
                       </NumberCounter>
                     </span>
                       <span>+</span>
                     </p>
-                    <p>
-                      Millions of client <br /> logins monthly
+                    <p style={{textAlign:"center"}} >
+                       Publishers
                     </p>
                   </div>
                 </div>
@@ -84,14 +81,14 @@ function AboutUsPage() {
                 <div className="counter_outer" data-aos="fade-up" data-aos-duration="1500">
                   <div className="counter_box">
                     <p className="d-flex justify-content-center"><span className="counter-value" data-count={120}>
-                      <NumberCounter className="counter-value" data-count={120} end={120} delay={2}>
+                      <NumberCounter className="counter-value" data-count={120} end={150} delay={2}>
                         0
                       </NumberCounter>
                     </span>
                       <span>+</span>
                     </p>
-                    <p>
-                      Languages and <br /> countries
+                    <p style={{textAlign:"center"}}>
+                      Advertisers
                     </p>
                   </div>
                 </div>
@@ -100,14 +97,14 @@ function AboutUsPage() {
                 <div className="counter_outer" data-aos="fade-up" data-aos-duration="1500">
                   <div className="counter_box">
                     <p className="d-flex justify-content-center"><span className="counter-value" data-count={120}>
-                      <NumberCounter className="counter-value" data-count={120} end={135} delay={2}>
+                      <NumberCounter className="counter-value" data-count={120} end={250} delay={2}>
                         0
                       </NumberCounter>
                     </span>
                       <span>+</span>
                     </p>
-                    <p>
-                      Percent yearly <br /> turnover increase
+                    <p style={{textAlign:"center"}}>
+                        Campaigns
                     </p>
                   </div>
                 </div>
@@ -116,14 +113,14 @@ function AboutUsPage() {
                 <div className="counter_outer" data-aos="fade-up" data-aos-duration="1500">
                   <div className="counter_box">
                     <p className="d-flex justify-content-center"><span className="counter-value" data-count={120}>
-                      <NumberCounter className="counter-value" data-count={120} end={324} delay={1}>
+                      <NumberCounter className="counter-value" data-count={120} end={50} delay={1}>
                         0
                       </NumberCounter>
                     </span>
                       <span>+</span>
                     </p>
-                    <p>
-                      Million active <br /> accounts
+                    <p style={{textAlign:"center"}}>
+                    Agencies
                     </p>
                   </div>
                 </div>
