@@ -14,7 +14,7 @@ function Advertisement() {
       <Second/>
     }
      <Header />
-     <Bredcom same={"Software Development"} title={"Home"} subtitle={"Services"}/>
+     <Bredcom same={"KPI-focused programmatic media - buying platform"} title={"Home"} subtitle={"Using a complex of cutting-edge programmatic technologies to let advertisers, agencies, and networks unleash the true potential of digital advertising which is ever-transparent, safe, and KPI-driven."}/>
    </div>
    <ServiceList/>
    <ServiceDetail/>

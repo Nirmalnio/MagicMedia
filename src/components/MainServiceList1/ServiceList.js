@@ -7,13 +7,13 @@ function ServiceList() {
     <>
       <section className="row_am service_list_section">
       <div className="container">
-        <div className="section_title" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100">
+        {/* <div className="section_title" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100">
          
           <h2>Our Featured Services </h2>
   
           <p>Lorem Ipsum is simply dummy text of the printing and typese tting indus <br/> orem Ipsum has beenthe
             standard dummy text ever since</p>
-        </div>
+        </div> */}
         
         <div className="service_list_inner" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
         
@@ -27,8 +27,8 @@ function ServiceList() {
               </div>
             </div>
             <div className="inner_text">
-              <h3>Software Development</h3>
-              <p>Lorem Ipsum is simply dummy text ofthe printing and type setting indus ideas orem Ipsum has beenthe.
+              <h3>Extended targeting</h3>
+              <p>Granular, high-precision targeting options helps to tailor advertisement for every customer.
               </p>
               <Link to="/serviceDetail" className="btn text_btn">DISCOVER MORE <i className="icofont-arrow-right"></i></Link>
             </div>
@@ -44,8 +44,8 @@ function ServiceList() {
               </div>
             </div>
             <div className="inner_text">
-              <h3>Maintenance</h3>
-              <p>Lorem Ipsum is simply dummy text ofthe printing and type setting indus ideas orem Ipsum has beenthe.
+              <h3>Omnichannel Ad formats</h3>
+              <p>Variety of interactive and static advertising formats for desktop, tablet, mobile devices, and CTV.
               </p>
               <Link to="/serviceDetail" className="btn text_btn">DISCOVER MORE <i className="icofont-arrow-right"></i></Link>
             </div>
@@ -61,9 +61,8 @@ function ServiceList() {
               </div>
             </div>
             <div className="inner_text">
-              <h3>Bug Solving</h3>
-              <p>Lorem Ipsum is simply dummy text ofthe printing and type setting indus ideas orem Ipsum has beenthe.
-              </p>
+              <h3>Bid optimization</h3>
+              <p>DSP automatically optimizes bids to meet advertising campaign KPI and achieve your goals.              </p>
               <Link to="/serviceDetail" className="btn text_btn">DISCOVER MORE <i className="icofont-arrow-right"></i></Link>
             </div>
           </div>
@@ -81,14 +80,14 @@ function ServiceList() {
               </div>
             </div>
             <div className="inner_text">
-              <h3>Customized Solution</h3>
-              <p>Lorem Ipsum is simply dummy text ofthe printing and type setting indus ideas orem Ipsum has beenthe.
+              <h3>Stable quality</h3>
+              <p>The platform is a part of GothamAds full-stack infrastructure that guarantees quality of impressions.
               </p>
               <Link to="/serviceDetail" className="btn text_btn">DISCOVER MORE <i className="icofont-arrow-right"></i></Link>
             </div>
           </div>
      
-          <div className="s_list_card">
+          {/* <div className="s_list_card">
             <div className="icons">
               <img src="assets/images/new/service-5.svg" alt="image"/>
               <div className="dot_block">
@@ -120,7 +119,7 @@ function ServiceList() {
               </p>
               <Link to="/serviceDetail" className="btn text_btn">DISCOVER MORE <i className="icofont-arrow-right"></i></Link>
             </div>
-          </div>
+          </div> */}
         </div>
 
 
