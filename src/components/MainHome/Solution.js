@@ -8,7 +8,7 @@ function Solution() {
           <div className="container">
             <div className="section_title" data-aos="fade-up" data-aos-duration="1500">
               <h2>Solution made for Your Growth</h2>
-              <p>Utilizing the most powerful media channels and technology available, we offer an expansive range of solutions & services to publishers and advertisers and help them reach their targeted online marketing objectives. Through our advanced team of experts and cutting-edge technology systems,
+              <p>Utilizing the most powerful media channels and technology available, we offer an expansive range of solutions & services to publishers & advertisers and help them reach their targeted online marketing objectives. Through our advanced team of experts and cutting-edge technology systems,
                  we successfully drive top-quality results and increased ROI.</p>
             </div>
             <div className="row">
@@ -19,7 +19,7 @@ function Solution() {
                   </div>
                   <div className="text">
                     <h3>18 Years of Experience</h3>
-                    <p>Our executive team with 10+ years of experience has helped establish our trusted reputation, fueled by their drive and passion for technology & innovation. 
+                    <p>Our executive team with 15+ years of experience has helped establish our trusted reputation, fueled by their drive and passion for technology & innovation. 
                       Our ability to adapt, analyze.
                     </p>
                   </div>
