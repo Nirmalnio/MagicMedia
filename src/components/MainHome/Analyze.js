@@ -11,7 +11,7 @@ function Analyze() {
                 <span className="icon"><img src="assets/images/new/Analyze_Icon.svg" alt="image" /></span>
                 <div className="section_title">
                   <h2>Mobile Advertising</h2>
-                  <p>Our publishers and advertisers enjoy ever-developing top-notch tech solutions that deliver relevant audience and optimized yield, 
+                  <p>Our publishers & advertisers enjoy ever-developing top-notch tech solutions that deliver relevant audience and optimized yield, 
                     through precise targeting capabilities and advanced AI technology.</p>
                 </div>
             

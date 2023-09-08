@@ -70,7 +70,7 @@ function Main() {
                                                 <img src={Two} alt="image" />
                                             </span>
                                             <div className="text">
-                                                <p>Reach us <br /> 599, Vilium Crossing, NJ</p>
+                                                <p>Reach us <br /> Cluster M1, 33rd Floor, HDS Business Centre Tower, Dubai, UAE</p>
                                             </div>
                                         </li>
                                         <li>
@@ -78,7 +78,7 @@ function Main() {
                                                 <img src={Three} />
                                             </span>
                                             <div className="text">
-                                                <p>Call us <Link to="tel:+1-900-1234567">+1-900-123 4567</Link></p>
+                                                <p>Call us <Link to="tel:+971 52 4932595">+971 52 4932595</Link></p>
                                             </div>
                                         </li>
                                         <li>
@@ -86,7 +86,7 @@ function Main() {
                                                 <img src={Four} />
                                             </span>
                                             <div className="text">
-                                                <p>Email us <Link to="mailto:support@example.com">support@example.com</Link></p>
+                                                <p>Email us <Link to="mailto:support@example.com">sales@magicmedia.ae</Link></p>
                                             </div>
                                         </li>
                                     </ul>

@@ -21,11 +21,11 @@ function Communication() {
               <div className="col-md-6">
                 <div className="communication_image" data-aos="fade-in" data-aos-duration="1000">
                   <img data-aos="fade-in" data-aos-duration="2000" data-aos-delay="100" className="moving_animation"
-                    src="assets/images/new/cominication-data-03.png" alt="image" />
+                    src="https://mediacity.co.in/codely/4/assets/images/new/cominication-data-03.png" alt="image" />
                   <img data-aos="fade-in" data-aos-duration="2000" data-aos-delay="100" className="moving_animation"
-                    src="assets/images/new/cominication-data-02.png" alt="image" />
+                    src="https://mediacity.co.in/codely/4/assets/images/new/cominication-data-02.png" alt="image" />
                   <img data-aos="fade-in" data-aos-duration="2000" data-aos-delay="100" className=""
-                    src="assets/images/new/cominication-data-01.png" alt="image" />
+                    src="https://s7ap1.scene7.com/is/image/TCSCOMprod/digital-audio-advertising-winning-strategy-customer-engagement-Web-3840x1512:Small?wid=1278&hei=1512&dpr=off" alt="image" />
                 </div>
               </div>
             </div>
@@ -41,8 +41,8 @@ function Communication() {
                   <img src="https://mediacity.co.in/codely/4/assets/images/new/Collaborate-01.png" alt="image" />
                 </div>
                 <div className="img_block" data-aos="fade-in" data-aos-duration="2000" data-aos-delay="100">
-                  <img src="assets/images/new/Collaborate-02.png" alt="image" />
-                  <img className="icon_img moving_animation" src="assets/images/new/Collaborate-icon_2.png" alt="image" />
+                  <img src="https://mediacity.co.in/codely/4/assets/images/new/Collaborate-02.png" alt="image" />
+                  {/* <img className="icon_img moving_animation" src="https://mediacity.co.in/codely/4/assets/images/new/Collaborate-icon_2.png" alt="image" /> */}
                 </div>
               </div>
             </div>
@@ -76,11 +76,11 @@ function Communication() {
               <div className="col-md-6">
                 <div className="communication_image" data-aos="fade-in" data-aos-duration="1000">
                   <img data-aos="fade-in" data-aos-duration="2000" data-aos-delay="100" className="moving_animation"
-                    src="assets/images/new/cominication-data-03.png" alt="image" />
+                    src="https://mediacity.co.in/codely/4/assets/images/new/cominication-data-03.png" alt="image" />
                   <img data-aos="fade-in" data-aos-duration="2000" data-aos-delay="100" className="moving_animation"
-                    src="assets/images/new/cominication-data-02.png" alt="image" />
+                    src="https://mediacity.co.in/codely/4/assets/images/new/cominication-data-02.png" alt="image" />
                   <img data-aos="fade-in" data-aos-duration="2000" data-aos-delay="100" className=""
-                    src="assets/images/new/cominication-data-01.png" alt="image" />
+                    src="https://promoalltest-blog.cdnpromo.com/wp-content/uploads/2019/08/Video-Ads-vs-Image-Ads_A-Comparison.jpg" alt="image" />
                 </div>
               </div>
             </div>

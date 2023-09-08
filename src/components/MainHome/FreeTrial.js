@@ -39,7 +39,7 @@ function FreeTrial() {
                     <div className="waves wave-3"></div>
                   </div>
                 </div>
-                <span>WATCH PROMO</span>
+                {/* <span>WATCH PROMO</span> */}
               </Link>
             </div>
             {click &&
@@ -61,7 +61,7 @@ function FreeTrial() {
               </div>}
           </div>
           <div className="side_img">
-            <img src="assets/images/new/start-free-side-img.png" alt="image" />
+            <img src="https://mediacity.co.in/codely/4/assets/images/new/start-free-side-img.png" alt="image" />
           </div>
         </div>
       </section>
