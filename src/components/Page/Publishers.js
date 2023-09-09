@@ -6,6 +6,7 @@ import Bredcom from '../Bredcom/Second'
 import Animation from '../Animation/Second'
 import ServiceList from '../MainServiceList1/ServiceList'
 import ServiceDetailsPublic from '../MainServiceDetail/ServiceDetailsPublic'
+import ServiceListPublic from '../MainServiceList1/ServiceListPublic'
 
 function Publishers() {
   return (
@@ -17,7 +18,7 @@ function Publishers() {
      <Header />
      <Bredcom same={"Publisher Solutions for technologically progressive Programmatic Monetization"} title={"Home"} subtitle={"World's best AI and MA-powered technologies implemented on the single programmatic platform that lets publishers, media owners, and app developers enhance the value of their inventory across the screens, formats, and verticals."}/>
    </div>
-   <ServiceList/>   
+   <ServiceListPublic/>   
    <ServiceDetailsPublic/>
    <Need/>
   </>
