@@ -24,24 +24,26 @@ function ServiceDetailsPublic() {
             </p>
             <ul className="list_block" data-aos="fade-up" data-aos-duration="1500">
               <li>
-                <h3>Bid management autopilot</h3>
-                <p>AI algorithms automatically manage your bids to offer the optimal price for an impression and keep your budget sound.</p>
+                <h3>Various ad formats</h3>
+                <p>Monetize with engagement using native, CTV, programmatic audio, display, rich media, and video (pre-roll, post-roll, in-stream, and out-stream) formats.</p>
               </li>
               <li>
-                <h3>Retargeting</h3>
-                <p>Turn unconverted users into customers. Remind them about your offer by launching retargeting campaigns on different screens and channels.</p>
+                <h3>Inventory controls</h3>
+                <p>Configure preferrable price floor, future creative placement, and sort out your partners with listings.</p>
               </li>
               <li>
-                <h3>Geo targeting</h3>
-                <p>Integration with our internal DMP connects both DSP and SSP platforms to the extended targeting options which make advertising relevant, and results in higher view-ability, win-rate, and ROI</p>
+                <h3>Real-time reporting</h3>
+                <p>Easy-to-grasp and interpret analytical reports are generated across multitude of metrics, including revenues, 
+                  clicks, impressions, and fill rates.</p>
               </li>
               <li>
-                <h3>Secure advertising ecosystem</h3>
-                <p>We show your ads only to the real people. Quality of impressions is guaranteed by partnerships with international traffic validators and by in-house tools.</p>
+                <h3>Integrated with programmatic infrastructure</h3>
+                <p>Integrated with programmatic infrastructure. GothamAds SSP connects to the robust programmatic
+                   hub featuring top 250+ direct and RTB demand partners globally</p>
               </li>
               <li>
-                <h3>Campaign controls</h3>
-                <p>You can set up preferable placements, channels, ad resolutions, view frequency, and budget spend to let campaign hit the right KPI.</p>
+                <h3>AI-driven demand mediation</h3>
+                <p>AI and ML algorithms analyze incoming bids and sort out the highest.</p>
               </li>
               <li>
                 <h3>Detailed reporting</h3>

@@ -23,7 +23,7 @@ function AboutUsPage() {
                   <h2>Few words about us, what we provide for your growth</h2>
                   <p>Magic Media belongs to those programmatic advertising companies, which through creativity, mind-blowing technologies, and commitment to results, solve all challenges of digital advertising. We aspire to be a leading global provider of innovative online performance marketing solutions to publishers & advertisers. While developing and utilizing the most advanced technology available, using the most powerful media channels,
                      we wish to deliver top-quality results and performance optimization for our partners. Since 2022, MM has expanded its activities while becoming a pioneer 
-                    in various areas within the online marketing world. The online market has expanded widely over the years, and as a key player within the industry, we have constantly set measures to remain a step ahead by anticipating and taking action for prospective changes. Through innovation, technology, and know-how gathered from our executive team who hold 10+ years of experience, we develop and deliver effective online solutions.</p>
+                    in various areas within the online marketing world. The online market has expanded widely over the years, and as a key player within the industry, we have constantly set measures to remain a step ahead by anticipating and taking action for prospective changes.Through innovation, technology, and know-how gathered from our executive team who hold 10+ years of experience, we develop and deliver effective online solutions.</p>
                 </div>
               </div>
               <div className="col-md-6">
