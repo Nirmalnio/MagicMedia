@@ -17,7 +17,7 @@ function Adformats() {
    }
      
     <Header />
-    <Bredcom same={"Services List 2"} title={"Home"} subtitle={"Our Services"} />
+    <Bredcom same={"Ad Formats"} title={"Home"} subtitle={"Magic Media provides an effective and easy solution for publishers, advertisers, developers and marketers so that everyone can buy and sell premium, worldwide traffic in just a few clicks; from beginners to media buying experts."} />
   </div>
   <ServiceList2Col/>
   <ServiceList2/>
