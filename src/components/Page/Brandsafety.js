@@ -5,6 +5,8 @@ import Header from '../Header/Main'
 import Bredcom from '../Bredcom/Second'
 import Animation from '../Animation/Second'
 import ServiceList from '../MainServiceList1/ServiceList'
+import ServiceListBrand from '../MainServiceList1/ServiceListBrand'
+import ServiceDetailsBrand from '../MainServiceDetail/ServiceDetailsBrand'
 
 function Brandsafety() {
   return (
@@ -14,10 +16,10 @@ function Brandsafety() {
       <Animation />
     }
      <Header />
-     <Bredcom same={"Software Development"} title={"Home"} subtitle={"Services"}/>
+     <Bredcom same={"Brand safety and Transparency"} title={"Home"} subtitle={"Brand safety and Transparency"}/>
    </div>
-   <ServiceList/>
-   <ServiceDetail/>
+   <ServiceListBrand/>
+   <ServiceDetailsBrand/>
    <Need/>
   </>
   )
