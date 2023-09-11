@@ -8,10 +8,13 @@ function OurTeam() {
         <div className="container">
           <div className="section_title" data-aos="fade-up" data-aos-duration="1500">
             <h2>Our Experience Team</h2>
-            <p>Lorem Ipsum is simply dummy text of the printing and typese tting indus orem Ipsum has beenthe standard
-              dummy.</p>
+            <p>Magic Media is a team of professionals and specialists from different backgrounds that are bound together by shared expertise and the genuine passion for programmatic advertising technologies. We collaborate daily to inject fresh ideas, test high-tech solutions and create opportunities that truly reshape AdTech world. Our mission is to automate and optimize ad buying process in real time, making it more efficient and therefore, affordable for advertisers, app developers, media owners and ad agencies.</p>
           </div>
-          <div className="team_block">
+           <div>
+            <img style={{alignItems:"center",width:"80vw"}}
+            src='https://images.unsplash.com/photo-1624555130296-e551faf8969b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2021&q=80' alt='team Images' />
+           </div>
+          {/* <div className="team_block">
             <div className="row">
               <div className="col-lg-3 col-md-6 col-sm-6" data-aos="fade-up" data-aos-duration="1500">
                 <div className="team_inner">
@@ -78,7 +81,7 @@ function OurTeam() {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
     </>

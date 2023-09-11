@@ -4,7 +4,7 @@ import One from '../../assets/images/new/Logo.png'
 import Two from '../../assets/images/new/contact_01.png'
 import Three from '../../assets/images/new/contact_02.png'
 import Four from '../../assets/images/new/contact_03.png'
-
+import logoimg from "../../assets/images/MM-1.png"
 
 
 function Main() {
@@ -20,7 +20,7 @@ function Main() {
 
                             <div className="col-lg-4 col-md-6 col-12">
                                 <div className="abt_side">
-                                    <div className="logo"> <img src={One} alt="image" /></div>
+                                    <div className="logo"> <img src={logoimg} alt="image" /></div>
                                     <p>Get your business ready to skyrocket </p>
                                     <div className="news_letter_block">
                                         <form action="submit">
@@ -70,7 +70,7 @@ function Main() {
                                                 <img src={Two} alt="image" />
                                             </span>
                                             <div className="text">
-                                                <p>Reach us <br /> 599, Vilium Crossing, NJ</p>
+                                                <p>Reach us <br /> Cluster M1, 33rd Floor, HDS Business Centre Tower, Dubai, UAE</p>
                                             </div>
                                         </li>
                                         <li>
@@ -78,7 +78,7 @@ function Main() {
                                                 <img src={Three} />
                                             </span>
                                             <div className="text">
-                                                <p>Call us <Link to="tel:+1-900-1234567">+1-900-123 4567</Link></p>
+                                                <p>Call us <Link to="tel:+971 52 4932595">+971 52 4932595</Link></p>
                                             </div>
                                         </li>
                                         <li>
@@ -86,7 +86,7 @@ function Main() {
                                                 <img src={Four} />
                                             </span>
                                             <div className="text">
-                                                <p>Email us <Link to="mailto:support@example.com">support@example.com</Link></p>
+                                                <p>Email us <Link to="mailto:support@example.com">sales@magicmedia.ae</Link></p>
                                             </div>
                                         </li>
                                     </ul>
@@ -105,18 +105,18 @@ function Main() {
 
                         <div className="row">
                             <div className="col-md-4">
-                                <p>© Copyrights 2023. All rights reserved.</p>
+                                <p>© Copyrights 2022. All rights reserved.</p>
                             </div>
                             <div className="col-md-4">
                                 <ul className="social_media">
                                     <li><Link to="#"><i className="icofont-facebook"></i></Link></li>
                                     <li><Link to="#"><i className="icofont-twitter"></i></Link></li>
                                     <li><Link to="#"><i className="icofont-instagram"></i></Link></li>
-                                    <li><Link to="#"><i className="icofont-pinterest"></i></Link></li>
+                                    <li><Link to="#"><i className="icofont-linkedin"></i></Link></li>
                                 </ul>
                             </div>
                             <div className="col-md-4">
-                                <p className="developer_text">Design & developed by <Link to="https://themeforest.net/user/kalanidhithemes" target="blank">Kalanidhi Themes</Link></p>
+                                {/* <p className="developer_text">Design & developed by <Link to="https://themeforest.net/user/kalanidhithemes" target="blank">Kalanidhi Themes</Link></p> */}
                             </div>
                         </div>
 

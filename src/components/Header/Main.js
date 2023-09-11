@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
-import One from "../../assets/images/new/logo_white.png";
+import One from "../../assets/images/MM-3.png";
 
 function Main() {
   const [headerScroll, setheaderScroll] = useState(false);
@@ -52,7 +52,7 @@ function Main() {
                 >
                   <span
                     className="toggle-bar"
-                    onClick={() => setTabclick(!tabclick)}
+                    onClick={() => setClick(!click)}
                   ></span>
                 </div>
               </span>
@@ -65,29 +65,34 @@ function Main() {
               id="navbarSupportedContent"
             >
               <ul className="navbar-nav ml-auto">
+              <li className="nav-item">
+                  <Link className="nav-link" to="/">
+                    Home
+                  </Link>
+                 </li>
                 <li className="nav-item">
                   <Link className="nav-link" to="/about-us">
                     About us
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/testimonial">
+                  <Link className="nav-link" to="/advertisement">
                     Advertisers
                   </Link>
                 </li>
 
                 <li className="nav-item">
-                  <Link className="nav-link" to="#">
+                  <Link className="nav-link" to="/publishers">
                     Publishers
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="#">
+                  <Link className="nav-link" to="/Ad-formats">
                     AdFormats{" "}
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="#">
+                  <Link className="nav-link" to="/brandsafety">
                     Brand Safety{" "}
                   </Link>
                 </li>
@@ -97,11 +102,7 @@ function Main() {
                     Contact Us
                   </Link>
                 </li>
-                <li className="nav-item">
-                  <Link className="nav-link dark_btn" to="/contactus">
-                    REQUEST DEMO <i className="icofont-arrow-right"></i>
-                  </Link>
-                </li>
+               
               </ul>
             </div>
           </nav>

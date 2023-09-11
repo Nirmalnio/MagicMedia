@@ -15,6 +15,10 @@ import SignIn from '../components/SignIn/Main'
 import SignUp from '../components/SignUp/Main'
 import FAQ from '../components/FAQ/Main'
 import Error404 from '../components/Error404/Main'
+import Advertisement from '../components/Page/Advertisement';
+import Adformats from '../components/Page/Adformats';
+import Brandsafety from '../components/Page/Brandsafety';
+import Publishers from '../components/Page/Publishers';
 
 function Index() {
   const location = useLocation();
@@ -39,8 +43,15 @@ function Index() {
         <Routes >
           <Route path="/" element={<Home />} />
           <Route path="/about-us" element={<AboutUs />} />
-          <Route path="/testimonial" element={<Testimonial />} />
           <Route path="/contactus" element={<Contact />} />
+          <Route path="/advertisement" element={<Advertisement />} />
+          <Route path="/Ad-formats" element={<Adformats/>} />
+          <Route path="/brandsafety" element={<Brandsafety/>} />
+          <Route path="/publishers" element={<Publishers/>} />
+
+
+          
+          <Route path="/testimonial" element={<Testimonial />} />
           <Route path="/servicelist1" element={<ServiceList1 />} />
           <Route path="/servicelist2" element={<ServiceList2 />} />
           <Route path="/serviceDetail" element={<ServiceDetail />} />

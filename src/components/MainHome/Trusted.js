@@ -23,14 +23,17 @@ function Trusted() {
   };
 
   const logos = [
-    'assets/images/paypal.png',
-    'assets/images/spoty.png',
-    'assets/images/shopboat.png',
-    'assets/images/slack.png',
-    'assets/images/envato.png',
-    'assets/images/paypal.png',
-    'assets/images/spoty.png',
-    'assets/images/shopboat.png'
+    'https://www.iavatarz.com/wp-content/uploads/2014/03/yahoo-india.png',
+    'https://www.iavatarz.com/wp-content/uploads/2014/03/alibaba.png',
+    'https://www.iavatarz.com/wp-content/uploads/2014/03/hp.png',
+    'https://www.iavatarz.com/wp-content/uploads/2014/03/jumeirah.png',
+    'https://www.iavatarz.com/wp-content/uploads/2014/03/lg.png',
+    'https://www.iavatarz.com/wp-content/uploads/2014/03/panasonic.png',
+    'https://www.iavatarz.com/wp-content/uploads/2014/03/samsung.png',
+    'https://www.iavatarz.com/wp-content/uploads/2014/03/tata-aig.png',
+    'https://www.iavatarz.com/wp-content/uploads/2014/03/icici-bank.png',
+    'https://www.iavatarz.com/wp-content/uploads/2014/03/nokia.png',
+    'https://www.iavatarz.com/wp-content/uploads/2014/03/sony-erricsson.png'
   ];
 
   return (
@@ -43,12 +46,12 @@ function Trusted() {
           data-aos-delay="100"
         >
           <h2>
-            Trusted by <span>150+</span> companies
+          CLIENTS
           </h2>
-          <p>
+          {/* <p>
             Lorem Ipsum is simply dummy text of the printing and typesetting
             <br /> indus orem Ipsum has beenthe standard dummy.
-          </p>
+          </p> */}
         </div>
 
         <div

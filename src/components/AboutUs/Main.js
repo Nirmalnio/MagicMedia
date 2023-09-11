@@ -9,6 +9,7 @@ import FreeTrial from '../MainHome/FreeTrial'
 import Need from '../MainAboutUs/Need'
 import Bredcom from '../Bredcom/Main'
 import Animation from '../Animation/Second'
+import Trusted from '../MainHome/Trusted'
 
 
 
@@ -20,14 +21,15 @@ function Main() {
           <Animation />
         }
         <Header />
-        <Bredcom same={"About us"} title={"Home"} subtitle={"About us"} />
+        <Bredcom same={"About us"} title={"Home"} subtitle={""} />
       </div>
-      <Review />
+      {/* <Review /> */}
       <Aboutus />
       <Solution />
       <OurTeam />
-      <Customer />
-      <FreeTrial />
+      <Trusted />
+      {/* <Customer /> */}
+      {/* <FreeTrial /> */}
       <Need />
     </>
   )

@@ -23,7 +23,7 @@ function ContactList() {
                 <h3>Chat to sales</h3>
                 <p>Let’s discuss with our sales team
                 </p>
-                <Link to="mailto:support@example.com" className="text_btn">example@gmail.com</Link>
+                <Link to="mailto:sales@magicmedia.ae" className="text_btn">sales@magicmedia.ae</Link>
               </div>
             </div>
 
@@ -40,7 +40,7 @@ function ContactList() {
                 <h3>Visit our office</h3>
                 <p>Reach us to our offcie and meest us
                 </p>
-                <Link to="#" className="text_btn">5687, Business Avenue, New York, USA 5687 </Link>
+                <Link to="#" className="text_btn">Cluster M1, 33rd Floor, HDS Business Centre Tower, Dubai, UAE</Link>
               </div>
             </div>
 
@@ -57,7 +57,7 @@ function ContactList() {
                 <h3>Call us</h3>
                 <p>Call us directly with sales team
                 </p>
-                <Link to="tel:+1-900-1234567" className="text_btn">+1 (888) 553-46-11</Link>
+                <Link to="tel:+971 52 4932595" className="text_btn">+971 52 4932595</Link>
               </div>
             </div>
           </div>

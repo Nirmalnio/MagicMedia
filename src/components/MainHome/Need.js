@@ -15,8 +15,8 @@ function Need() {
                 </div>
               </div>
               <div className="need_action">
-                <Link to="tel:1234567899" className="btn"><i className="icofont-phone-circle"></i> +1 123 456 7890</Link>
-                <Link to="#faqBlock" className="faq_btn">Read The FAQ </Link>
+                <Link to="tel:+971 52 4932595" className="btn"><i className="icofont-phone-circle"></i>+971 52 4932595</Link>
+                {/* <Link to="#faqBlock" className="faq_btn">Read The FAQ </Link> */}
               </div>
             </div>
           </div>

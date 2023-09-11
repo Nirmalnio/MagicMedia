@@ -13,12 +13,12 @@ function Main({ same, subtitle, title }) {
                     <div className="bred_text">
                         <h1>{same}</h1>
                         <ul>
-                            <li>
+                            {/* <li>
                                 <Link to="/">{title}</Link>
                             </li>
                             <li>
                                 <span>»</span>
-                            </li>
+                            </li> */}
                             <li>
                                 <Link to="/aboutus">{subtitle}</Link>
                             </li>
