@@ -9,6 +9,7 @@ import FreeTrial from '../MainHome/FreeTrial'
 import Need from '../MainAboutUs/Need'
 import Bredcom from '../Bredcom/Main'
 import Animation from '../Animation/Second'
+import Trusted from '../MainHome/Trusted'
 
 
 
@@ -26,6 +27,7 @@ function Main() {
       <Aboutus />
       <Solution />
       <OurTeam />
+      <Trusted />
       {/* <Customer /> */}
       {/* <FreeTrial /> */}
       <Need />

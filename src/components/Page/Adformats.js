@@ -7,6 +7,7 @@ import Need from '../MainHome/Need'
 import Pricing from '../MainHome/Pricing'
 import Bredcom from '../Bredcom/Main'
 import Animation from '../Animation/Second'
+import ServiceDetailsAdformat from '../MainServiceDetail/ServiceDetailsAdformat'
 
 function Adformats() {
   return (
@@ -21,6 +22,7 @@ function Adformats() {
   </div>
   <ServiceList2Col/>
   <ServiceList2/>
+  <ServiceDetailsAdformat/>
   <Need/>
  </>
   )

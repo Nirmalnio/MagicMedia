@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
-import One from "../../assets/images/new/logo_white.png";
+import One from "../../assets/images/MM-3.png";
 
 function Main() {
   const [headerScroll, setheaderScroll] = useState(false);
@@ -52,7 +52,7 @@ function Main() {
                 >
                   <span
                     className="toggle-bar"
-                    onClick={() => setTabclick(!tabclick)}
+                    onClick={() => setClick(!click)}
                   ></span>
                 </div>
               </span>

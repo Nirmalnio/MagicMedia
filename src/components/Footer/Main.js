@@ -4,7 +4,7 @@ import One from '../../assets/images/new/Logo.png'
 import Two from '../../assets/images/new/contact_01.png'
 import Three from '../../assets/images/new/contact_02.png'
 import Four from '../../assets/images/new/contact_03.png'
-
+import logoimg from "../../assets/images/MM-1.png"
 
 
 function Main() {
@@ -20,7 +20,7 @@ function Main() {
 
                             <div className="col-lg-4 col-md-6 col-12">
                                 <div className="abt_side">
-                                    <div className="logo"> <img src={One} alt="image" /></div>
+                                    <div className="logo"> <img src={logoimg} alt="image" /></div>
                                     <p>Get your business ready to skyrocket </p>
                                     <div className="news_letter_block">
                                         <form action="submit">

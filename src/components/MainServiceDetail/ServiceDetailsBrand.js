@@ -3,10 +3,10 @@ import { Link } from 'react-router-dom'
 
 function ServiceDetailsBrand() {
   return (
-    <section className="service_detail_section">
+  <section className="service_detail_section" style={{marginTop:"-40px"}}>
     <div className="container">
       <div className="row">
-        <div className="col-lg-8">
+        <div className="col-lg-12">
        
           <div className="service_left_side">
             {/* <div className="section_title" data-aos="fade-up" data-aos-duration="2000">
@@ -46,7 +46,7 @@ function ServiceDetailsBrand() {
             </p>
           </div>
         </div>
-        <div className="col-lg-4">
+        <div /* className="col-lg-4" */>
         
           <div className="service_right_side">
             {/* <div className="service_list_panel" data-aos="fade-up" data-aos-duration="1500">
@@ -61,12 +61,12 @@ function ServiceDetailsBrand() {
               </ul>
             </div> */}
           
-            <div className="side_contact_block" data-aos="fade-up" data-aos-duration="1500">
+            {/* <div className="side_contact_block" data-aos="fade-up" data-aos-duration="1500">
               <div className="icon"><i className="icofont-live-support"></i></div>
               <h3>Let’s work together</h3>
               <Link to="/contactus" className="btn btn_main">CONTACT US <i className="icofont-arrow-right"></i></Link>
               <p><Link to="tel:1234567899"><i className="icofont-phone-circle"></i>+971 52 4932595</Link></p>
-            </div>
+            </div> */}
             {/* <div className="action_btn">
               <Link to="images/pdf-brochure.pdf" target="blank" className="btn" data-aos="fade-up" data-aos-duration="1500">
                 <span><i className="icofont-file-pdf"></i> </span>

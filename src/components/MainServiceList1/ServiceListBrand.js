@@ -32,8 +32,24 @@ function ServiceListBrand() {
             <Link to="/serviceDetail" className="btn text_btn">DISCOVER MORE <i className="icofont-arrow-right"></i></Link>
           </div>
         </div>
-  
+
         <div className="s_list_card">
+          <div className="icons">
+            <img src="assets/images/new/service-4.svg" alt="image"/>
+            <div className="dot_block">
+              <span className="dot_anim"></span>
+              <span className="dot_anim"></span>
+              <span className="dot_anim"></span>
+            </div>
+          </div>
+          <div className="inner_text">
+            <h3>Transparent</h3>
+            <p>Assess all data about campaigns, transactions or ad delivery in real-time via dashboard or ask your dedicated manager.</p>
+            <Link to="/serviceDetail" className="btn text_btn">DISCOVER MORE <i className="icofont-arrow-right"></i></Link>
+          </div>
+        </div>
+  
+        {/* <div className="s_list_card">
           <div className="icons">
             <img src="assets/images/new/service-2.svg" alt="image"/>
             <div className="dot_block">
@@ -48,7 +64,7 @@ function ServiceListBrand() {
             </p>
             <Link to="/serviceDetail" className="btn text_btn">DISCOVER MORE <i className="icofont-arrow-right"></i></Link>
           </div>
-        </div>
+        </div> */}
      
         <div className="s_list_card">
           <div className="icons">
@@ -69,21 +85,7 @@ function ServiceListBrand() {
 
       <div className="service_list_inner" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
        
-        <div className="s_list_card">
-          <div className="icons">
-            <img src="assets/images/new/service-4.svg" alt="image"/>
-            <div className="dot_block">
-              <span className="dot_anim"></span>
-              <span className="dot_anim"></span>
-              <span className="dot_anim"></span>
-            </div>
-          </div>
-          <div className="inner_text">
-            <h3>Transparent</h3>
-            <p>Assess all data about campaigns, transactions or ad delivery in real-time via dashboard or ask your dedicated manager.</p>
-            <Link to="/serviceDetail" className="btn text_btn">DISCOVER MORE <i className="icofont-arrow-right"></i></Link>
-          </div>
-        </div>
+       
    
         {/* <div className="s_list_card">
           <div className="icons">
