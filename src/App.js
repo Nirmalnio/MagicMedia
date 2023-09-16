@@ -10,7 +10,7 @@ import './assets/css/magnific-popup.min.css';
 import './assets/css/responsive.css';
 import './assets/css/style.css';
 import Socialbar from './components/socialbar';
-import loade from "../src/assets/images/Magic Media White VGIF.gif"
+import loade from "../src/assets/images/MM-3.png"
 function App() {
 
   const [isLoading, setIsLoading] = useState(true);
@@ -18,7 +18,7 @@ function App() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setIsLoading(false);
-    }, 3000); // Set a 3-second timer
+    }, 2000); // Set a 3-second timer
 
     return () => clearTimeout(timer); // Clear the timer if the component unmounts
   }, []);
@@ -30,7 +30,7 @@ function App() {
        <div className='loaderDiv'>
           <div>
           <img src={loade} alt='loader'/>
-          <span>Magic Media</span>
+          {/* <span>Magic Media</span> */}
           </div>
        </div>:
         <>
